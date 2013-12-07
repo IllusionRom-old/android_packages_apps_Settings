@@ -908,7 +908,7 @@
             </intent-filter>
         </activity-alias>
 
-        <activity android:name="Settings$AppOpsDetailsActivity"
+        <activity-alias android:name="Settings$AppOpsDetailsActivity"
                 android:label="@string/app_ops_settings"
                 android:exported="true"
                 android:excludeFromRecents="true"

@@ -908,18 +908,6 @@
             </intent-filter>
         </activity-alias>
 
-        <activity-alias android:name="Settings$AppOpsDetailsActivity"
-                android:label="@string/app_ops_settings"
-                android:exported="true"
-                android:excludeFromRecents="true"
-                android:targetActivity=".applications.AppOpsDetailsTop">
-            <intent-filter>
-                <action android:name="android.settings.APP_OPS_DETAILS_SETTINGS" />
-                <category android:name="android.intent.category.DEFAULT" />
-                <data android:scheme="package" />
-            </intent-filter>
-        </activity-alias>
-
         <activity android:name="Settings$LocationSettingsActivity"
                 android:uiOptions="splitActionBarWhenNarrow"
                 android:label="@string/location_settings_title"

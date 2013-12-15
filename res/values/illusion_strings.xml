@@ -111,12 +111,6 @@
     <string name="root_access_adb">ADB only</string>
     <string name="root_access_all">Apps and ADB</string>
 
-<!--Battery Icon selection-->
-     <string name="battery_status_icon_title">Status icon</string>
-     <string name="battery_bar">Battery bar</string>
-     <string name="battery_bar_percent">Battery bar &amp; percent</string>
-     <string name="battery_circle">Battery circle</string>
-     <string name="battery_circle_percent">Battery circle &amp; percent</string>
 
 <!-- Volume adjust sounds -->
     <string name="volume_adjust_sounds_enable_summary">Play sound while adjusting the volume</string>
